@@ -10,8 +10,6 @@
 
 تیم برنامه نویسی FTC
 با آدرس سایت
-https://feelthecode.com
-
 اولین سازنده ربات پیام رسان فارسی در تلگرام
 و تنها برنامه نویس ربات پی وی رسان می باشد
 
@@ -27,9 +25,8 @@ https://feelthecode.com
 ما را در جریان قرار دهید تا پیگیری های لازم
 صورت پذیرد
 
-site: https://feelthecode.com
-Telegram Bot: https://telegram.me/PvResanBot
-Telegram Channel: https://telegram.me/PvResan
+Telegram Bot: https://telegram.me/tarfandpor_bot
+Telegram Channel: https://telegram.me/Black1957
 
 یا علی خدا قوت
 */
